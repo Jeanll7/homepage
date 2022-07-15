@@ -3,14 +3,14 @@
 ## Sobre mim
 👨‍💻 Desenvolvedor front-end...
 
-<br><hr><br>
+<br><br>
 
 ## 🛠 Stack utilizada
 
 
 **Front-end:** Next.js , Chakra UI, Framer Motion
 
-<br><hr><br>
+<br><br>
 
 ## 🔗 Links-Contato
 
