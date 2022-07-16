@@ -88,7 +88,7 @@ const Page = () => {
             Sobre mim
           </Heading>
           <Paragraph>
-            Jean é um desenvolvedor freelancer e FrontEnd com paixão por criar coisas digitais que ele deseja. Atualmente estudando desenvolvimento web com react. Com foco em Ui design para melhorar a interface e usabilidade!
+            Jean é um desenvolvedor freelancer e FrontEnd com paixão por criar coisas digitais que ele deseja. Atualmente estuda desenvolvimento web com react. Com foco em Ui design para melhorar a interface e usabilidade!
             <NextLink href="/" passHref scroll={false}>
               <Link>Estuda atualmente na Alura</Link>
             </NextLink>Conteúdo para github 
