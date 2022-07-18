@@ -88,11 +88,9 @@ const Page = () => {
             Sobre mim
           </Heading>
           <Paragraph>
-            Jean é um desenvolvedor freelancer e FrontEnd com paixão por criar coisas digitais que ele deseja. Atualmente estuda desenvolvimento web com react. Com foco em Ui design para melhorar a interface e usabilidade!
-            <NextLink href="/" passHref scroll={false}>
-              <Link>Estuda atualmente na Alura</Link>
-            </NextLink>Conteúdo para github 
-              <Link target="_blank"> Code</Link>
+            Jean é um desenvolvedor freelancer e front-end com paixão por aprender coisas digitais que ele deseja. Sempre em busca de novos desafio. Estuda UI/UX designer para melhor usabilidade de suas aplicações. Quando não está online, gosta de ler livros e fazer atividades ao ar livre. Atualmente estuda na Alura com foco em react e next.js. Onde sempre apredende muito e desenvolve projetos pessoais para o seu {' '}
+            <NextLink href="https://github.com/Jeanll7" passHref>
+              <Link target="_blank">GitHub</Link>
             </NextLink>
           </Paragraph>
           <Box align="center" my={4}>
