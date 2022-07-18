@@ -97,7 +97,7 @@ const Page = () => {
             <NextLink href="/works" passHref scroll={false}>
               <Button
                 rightIcon={<ChevronRightIcon />}
-                color="#3182CE"
+                colorScheme="blue"
                 variant="outline"
               >
                 Portfolio
