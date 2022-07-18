@@ -17,11 +17,6 @@ import { BioSection, BioYear } from '../components/bio'
 import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { IoLogoGithub, IoLogoLinkedin } from 'react-icons/io5'
-// import Image from 'next/image'
-
-// const ProfileImage = chakra(Image, {
-//   shouldForwardProp: prop => ['width', 'height', 'src', 'alt'].includes(prop)
-// })
 
 const Page = () => {
   return (
@@ -90,7 +85,7 @@ const Page = () => {
           <Paragraph>
             Jean é um desenvolvedor freelancer e front-end com paixão por aprender coisas digitais que ele deseja. Sempre em busca de novos desafio. Estuda UI/UX designer para melhor usabilidade de suas aplicações. Quando não está online, gosta de ler livros e fazer atividades ao ar livre. Atualmente estuda na Alura com foco em react e next.js. Onde sempre apredende muito e desenvolve projetos pessoais para o seu {' '}
             <NextLink href="https://github.com/Jeanll7" passHref>
-              <Link color="#3182CE" target="_blank">GitHub</Link>
+              <Link color="#3182CE" target="_blank"><b>GitHub</b></Link>
             </NextLink>
           </Paragraph>
           <Box align="center" my={4}>
