@@ -12,7 +12,7 @@ import banner from '../public/images/works/banner.png'
 
 const Works  = () => {
     return (
-        <Layout title="Trabalhos">
+        <Layout title="Projetos">
             <Container>
                     <Box>
                         <Center>
@@ -33,7 +33,7 @@ const Works  = () => {
                     </Box>
                 
                 <Heading as="h3" fontSize={20} mb={4}>
-                    Trabalhos
+                    Projetos
                 </Heading>
                 <SimpleGrid columns={[1,1,2]} gap={6}>
                     <Section>
