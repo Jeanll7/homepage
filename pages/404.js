@@ -9,6 +9,7 @@ import {
     Center,
     Button 
 } from '@chakra-ui/react'
+import Layout from '../components/layouts/article'
 
 const NotFound = () => {
     return (
